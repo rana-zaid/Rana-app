@@ -1,1 +1,1 @@
-web: python Udacian_Heba.py
+web: python3 Udacian_Heba.py
