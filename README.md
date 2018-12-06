@@ -1,3 +1,3 @@
 # Heroku-app
 
-An activity required for full stack developer nanodegree program (deploy on Heroku)
+An activity required for Udacity's Full Stack Developer Nanodegree Program (deploy on Heroku)
